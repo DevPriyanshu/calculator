@@ -1,0 +1,62 @@
+body
+{
+    background-color: rgb(3, 3, 3);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 3%;
+}
+.container
+{
+    padding: 1px;
+    border-radius: 10%;
+    margin-left: 725px;
+}
+input{
+    width: 195px;
+    height: 60px;
+}
+.btn
+{
+    background-color: rgb(55, 223, 223);
+    color: rgba(7, 2, 2, 0.925);
+    width: 61px;
+    height: 60px;
+}
+.btn:hover
+{
+    background-color:  rgb(13, 75, 75);
+    color: beige;
+}
+.btn1
+{
+    color: aliceblue;
+    width: 61px;
+    height: 60px;
+    background-color: rgb(156, 11, 11);
+}
+.btn1:hover
+{
+    background-color: black;
+}
+.btn2
+{
+    width: 259px;
+}
+p{
+    text-align: center;
+}
+.btn2
+{
+    background-color: rgb(55, 223, 223);
+    color: rgba(7, 2, 2, 0.925);
+    width: 61px;
+    height: 60px;
+}
+.btn:hover
+{
+    background-color:  rgb(13, 75, 75);
+    color: beige;
+}
